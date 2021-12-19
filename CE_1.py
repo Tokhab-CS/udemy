@@ -51,4 +51,3 @@ if __name__ == '__main__':
     cb.add_field('company', 'Samsung')
     print(cb)
     cb.clear()
-    print(cb)
